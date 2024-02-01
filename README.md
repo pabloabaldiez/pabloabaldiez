@@ -35,7 +35,7 @@
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/media/D3-5yUUWAAAICtE.png:large" alt="MySQL" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://howtodoinjava.com/wp-content/uploads/2017/05/maven.png" alt="MySQL" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://zipkin.io/public/img/logo_png/zipkin_vertical_grey_gb.png" alt="MySQL" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://image.pizza7311.me/images/png/1fed5377701251fe20b3220a388d5bc3a7250bfb.png" alt="MySQL" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://seeklogo.com/images/J/json-web-tokens-jwt-io-logo-C003DEC47A-seeklogo.com.png" alt="JWT" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://assets-global.website-files.com/5f5a53e153805db840dae2db/64e79ca5aff2fb7295bfddf9_github-que-es.jpg" alt="MySQL" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://logowik.com/content/uploads/images/301_docker.jpg" alt="MySQL" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://logowik.com/content/uploads/images/postman-api-platform6643.logowik.com.webp" alt="MySQL" height="50" /></a>  
