@@ -1,6 +1,4 @@
-<div style="background-color: 1B1717;">
-
-## <div align="center">Soy Pablo Abal Diez Desarrollador JAVA</div>
+## <div align="center">Pablo Abal Diez, Desarrollador JAVA</div>
 
 
 
@@ -98,9 +96,7 @@
 </a>
 </div>  
 <br/>
-<div align="center">
-<img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4750yy66mmgmah1vnnmrddsf62yirlqf4p26490dkj&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="height:190px" alt=""/>
-</div>
+
 
 
 
