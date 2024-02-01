@@ -1,3 +1,5 @@
+<div style="background-color: 1B1717;">
+
 ## <div align="center">Soy Pablo Abal Diez Desarrollador JAVA</div>
 
 
@@ -5,7 +7,7 @@
 ### <div align="center">Experto Universitario en Programación con especialización en JAVA certificado de UTN</div>
 
 
-- 🔭 En activa busqueda de una oportunidad laboral donde desplegar mis skills.
+- 🚀 En activa busqueda de una oportunidad laboral donde desplegar mis skills.
 
 
 - 🌱 Actualmente profundizando en Tests Unitarios utilizando JUnit y Mockito.
