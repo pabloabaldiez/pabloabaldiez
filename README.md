@@ -1,17 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Perfil de GitHub</title>
-  <style>
-    body {
-      background-color: black;
-    }
-  </style>
-</head>
-<body>
-
-
-
 
 ## <div align="center">Pablo Abal Diez, Desarrollador JAVA</div>
 
@@ -126,5 +112,3 @@
 <br />
 
 ------
-</body>
-</html>
