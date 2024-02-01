@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 <head>
   <title>Perfil de GitHub</title>
@@ -7,7 +8,8 @@
     }
   </style>
 </head>
-</html>
+<body>
+
 
 
 
@@ -124,3 +126,5 @@
 <br />
 
 ------
+</body>
+</html>
