@@ -11,9 +11,11 @@
 - 🌱 Actualmente profundizando en Tests Unitarios utilizando JUnit y Mockito.
 
 
-- ❓ Si queres enviarme un E-mail click -> [Here](pabloabaldiez@gmail.com)
+- ❓ Si queres enviarme un E-mail -> <a href="mailto:pabloabaldiez@gmail.com">Click Aca</a>
 
-
+<div align="center">
+<img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4750yy66mmgmah1vnnmrddsf62yirlqf4p26490dkj&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="height:190px" alt=""/>
+</div>
 
 <br/>  
 
