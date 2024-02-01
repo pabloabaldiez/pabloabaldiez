@@ -4,7 +4,7 @@
   <title>Perfil de GitHub</title>
   <style>
     body {
-      background-color: #1B1717;
+      background-color: black;
     }
   </style>
 </head>
