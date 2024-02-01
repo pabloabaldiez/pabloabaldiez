@@ -8,7 +8,7 @@
 
 
 
-- 🚀 En activa busqueda de una oportunidad laboral donde pueda desplegar mis skills aportando asi a la efectividad del equipo.
+- 🚀 En activa búsqueda de una oportunidad laboral donde pueda desplegar mis skills, aportando solidez y efectividad al equipo de trabajo.
 
 
 - 📚Actualmente profundizando en Tests Unitarios utilizando JUnit y Mockito.
@@ -26,11 +26,9 @@
 </div>
 
 <br/>  
-
 <br/>
 
 ## Tech Stack
-
 
 <h3 align="center">Backend </h3>
 <div align="center">  
