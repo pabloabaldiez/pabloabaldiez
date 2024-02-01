@@ -1,4 +1,4 @@
-<div align="center" style="background-color: #1B1717;"></div>
+<div align="center" style="background-color: #1B1717;">
 
 ## <div align="center">Pablo Abal Diez, Desarrollador JAVA</div>
 
@@ -111,5 +111,6 @@
    
 
 <br />
+</div>
 
 ------
