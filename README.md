@@ -45,13 +45,13 @@
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png" alt="Bootstrap" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
 
 
 
 
 
-</td><td valign="top" width="33%">
+
+
 
 
 
@@ -77,7 +77,7 @@
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyFtRAvFY6euXrS1msQdHNNBf_HojMBlRLcFVQTjfwZw&s" alt="C++" height="50" /></a>  
 </div>
 
-</td></tr></table>
+
 
 <br/>  
 
@@ -95,7 +95,7 @@
 </div>  
 <br/>
 <h2 style="text-align: center;">
-<img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4750yy66mmgmah1vnnmrddsf62yirlqf4p26490dkj&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
+<img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4750yy66mmgmah1vnnmrddsf62yirlqf4p26490dkj&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="height:190px" alt=""/>
 </h2>
 
 
