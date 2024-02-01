@@ -42,6 +42,9 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://assets-global.website-files.com/5f5a53e153805db840dae2db/64e79ca5aff2fb7295bfddf9_github-que-es.jpg" alt="GitHub" height="50" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://logowik.com/content/uploads/images/301_docker.jpg" alt="Docker" height="50" /></a>  
 <a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://logowik.com/content/uploads/images/postman-api-platform6643.logowik.com.webp" alt="Postman" height="50" /></a>  
+<a href="https://junit.org/" target="_blank"><img style="margin: 10px" src="https://www.opencodez.com/wp-content/uploads/2019/04/Junit-1.png" alt="Postman" height="50" /></a>  
+<a href="https://site.mockito.org/" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/media/CT25YybWEAAhdMo.jpg" alt="Postman" height="50" /></a>  
+
 </div>
 
 
