@@ -1,6 +1,6 @@
+<div align="center" style="background-color: #1B1717;"></div>
 
 ## <div align="center">Pablo Abal Diez, Desarrollador JAVA</div>
-
 
 
 ### <div align="center">Experto Universitario en Programación con especialización en JAVA certificado de UTN</div>
