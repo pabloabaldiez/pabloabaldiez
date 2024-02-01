@@ -4,11 +4,14 @@
 
 ### <div align="center">Experto Universitario en Programación con especialización en JAVA certificado de UTN</div>
 
+<br>
+<br>
 
-- 🚀 En activa busqueda de una oportunidad laboral donde pueda desplegar mis skills.
+
+- 🚀 En activa busqueda de una oportunidad laboral donde pueda desplegar mis skills aportando asi a la efectividad del equipo.
 
 
-- 🌱 Actualmente profundizando en Tests Unitarios utilizando JUnit y Mockito.
+- 📚Actualmente profundizando en Tests Unitarios utilizando JUnit y Mockito.
 
 
 - 💾 Visitá mi proyectos -> <a href="https://github.com/pabloabaldiez?tab=repositories">Click Aca</a>
