@@ -1,4 +1,9 @@
 
+<div align="center">
+    <img src="https://media.licdn.com/dms/image/D4D16AQG9fN1cmOdRSQ/profile-displaybackgroundimage-shrink_350_1400/0/1689777306296?e=1712188800&v=beta&t=QP7AD9Ehrq1-PbVX4R1TdRabsr7zAB5CoTO5rolQYC0" style="height:190px" alt=""/>
+</div>
+
+
 ## <div align="center">Pablo Abal Diez, Desarrollador JAVA</div>
 
 
