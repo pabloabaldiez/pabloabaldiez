@@ -8,7 +8,12 @@
 
 
 ### <div align="center">Experto Universitario en Programación con especialización en JAVA certificado de UTN</div>
-### <div align="center">Experto Universitario en Programación con especialización en JAVA certificado de UTN</div>
+### <div align="center">
+Me presento brevemente, soy Experto Universitario en Programación con especialización en JAVA, graduado de UTN con altas calificaciones, poseo experiencia laboral, formación académica y autodidacta. Vivo en CABA, Argentina.
+
+En mis softskills me caracterizo por mi puntualidad, el entusiasmo por el trabajo en equipo y la colaboración entre sectores, fácil de tratar, resolutivo, analítico, comprometido con mi trabajo, enfocado especificamente en cumplir los objetivos del puesto y con una permanente curiosidad por aprender nuevas tecnologías.
+
+Para mas detalle de mis calificaciones y hard skills les comparto mi perfil de Linkedin. De ser requerido hago llegar el CV a la brevedad.</div>
 
 <br>
 
