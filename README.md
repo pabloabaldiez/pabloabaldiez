@@ -8,6 +8,7 @@
 
 
 ### <div align="center">Experto Universitario en Programación con especialización en JAVA certificado de UTN</div>
+### <div align="center">Experto Universitario en Programación con especialización en JAVA certificado de UTN</div>
 
 <br>
 
