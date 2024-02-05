@@ -27,11 +27,11 @@
 
 <br>
 <div align="center">
-<a href="https://www.linkedin.com/in/pablo-abal-diez/" target="_blank"><img style="width:100px;height:100px;" src="https://i.pinimg.com/originals/0d/96/5c/0d965c639dad997285aa1e434c0bc7d5.gif" alt="Imagen centrada"></img>
+<a href="https://www.linkedin.com/in/pablo-abal-diez/" target="blank"><img style="width:100px;height:100px;" src="https://i.pinimg.com/originals/0d/96/5c/0d965c639dad997285aa1e434c0bc7d5.gif" alt="Imagen centrada"></img>
 </div>
 
 <div style="font-size: 18px;" align="center">
-<a href="https://www.linkedin.com/in/pablo-abal-diez/" target="_blank" style="font-size: 18px;"> Hacé click aca para visitar mi perfil de Linkedin</a>
+<a href="https://www.linkedin.com/in/pablo-abal-diez/" target="blank" style="font-size: 18px;"> Hacé click aca para visitar mi perfil de Linkedin</a>
 </div>
 
 <br>
