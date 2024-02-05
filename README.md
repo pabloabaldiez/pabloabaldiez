@@ -23,7 +23,7 @@
 -  &nbsp;❓ Si queres enviarme un E-mail -> <a href="mailto:pabloabaldiez@gmail.com">Click Aca</a>
 
   
-- &nbsp;📑 Hacé click en el icono para visitar mi perfil de Linkedin:
+- &nbsp;📑 Hacé click en el icono para visitar mi perfil de Linkedin ⤵  :
 
 <br>
 <div align="center">
