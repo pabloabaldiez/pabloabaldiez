@@ -14,14 +14,25 @@
 - 🚀 En activa búsqueda de una oportunidad laboral donde pueda desplegar mis skills, aportando solidez y efectividad al equipo de trabajo.
 
 
-- 📚Actualmente profundizando en Tests Unitarios utilizando JUnit y Mockito.
+- 📚 Actualmente profundizando en Tests Unitarios utilizando JUnit y Mockito.
 
 
-- 💾 Visitá mi proyectos -> <a href="https://github.com/pabloabaldiez?tab=repositories">Click Aca</a>
+-  💾 Visitá mi proyectos -> <a href="https://github.com/pabloabaldiez?tab=repositories">Click Aca</a>
 
 
-- ❓ Si queres enviarme un E-mail -> <a href="mailto:pabloabaldiez@gmail.com">Click Aca</a>
+-  &nbsp;❓ Si queres enviarme un E-mail -> <a href="mailto:pabloabaldiez@gmail.com">Click Aca</a>
+
   
+- &nbsp;📑 Hacé click en el icono para visitar mi perfil de Linkedin.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/pablo-abal-diez/" target="_blank"><img style="width:60px;height:60px; position:absolute ; bottom:2 ; right:4 ; " src="https://i.pinimg.com/originals/0d/96/5c/0d965c639dad997285aa1e434c0bc7d5.gif" />
+
+
+## <div style="font-size: 18px;" align="center">Hacé click aca para visitar mi perfil de Linkedin</div>
+
+
+
+
 <br>
 
 ### <div align="center">
