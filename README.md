@@ -25,15 +25,14 @@
   
 - &nbsp;📑 Hacé click en el icono para visitar mi perfil de Linkedin.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/pablo-abal-diez/" target="_blank"><img style="width:60px;height:60px; position:absolute ; bottom:2 ; right:4 ; " src="https://i.pinimg.com/originals/0d/96/5c/0d965c639dad997285aa1e434c0bc7d5.gif" />
-
-
-## <div style="font-size: 18px;" align="center">Hacé click aca para visitar mi perfil de Linkedin</div>
-
-
-
+<a href="https://www.linkedin.com/in/pablo-abal-diez/" target="_blank"><img style="width:60px;height:60px; position:absolute ; bottom:2 ; right:4 ; " src="https://i.pinimg.com/originals/0d/96/5c/0d965c639dad997285aa1e434c0bc7d5.gif"></img></a>
 
 <br>
+<br>
+<br>
+<div style="font-size: 18px;" align="center">Hacé click aca para visitar mi perfil de Linkedin</div>
+
+
 
 ### <div align="center">
 Me presento brevemente, soy Experto Universitario en Programación con especialización en JAVA, graduado de UTN con altas calificaciones, poseo experiencia laboral, formación académica y autodidacta. Vivo en CABA, Argentina.
