@@ -25,8 +25,9 @@
   
 - &nbsp;📑 Hacé click en el icono para visitar mi perfil de Linkedin.
 
-<a href="https://www.linkedin.com/in/pablo-abal-diez/" target="_blank"><img style="width:60px;height:60px; position:absolute ; bottom:2 ; right:4 ; " src="https://i.pinimg.com/originals/0d/96/5c/0d965c639dad997285aa1e434c0bc7d5.gif"></img></a>
-
+<div style="text-align: center;">
+<a href="https://www.linkedin.com/in/pablo-abal-diez/" target="_blank"><img style="width:60px;height:60px; position:absolute ; bottom:2 ; right:4 ; " src="https://i.pinimg.com/originals/0d/96/5c/0d965c639dad997285aa1e434c0bc7d5.gif" alt="Imagen centrada"></img></a>
+</div>
 <br>
 <br>
 <br>
