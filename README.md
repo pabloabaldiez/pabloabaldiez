@@ -32,7 +32,9 @@
 
 
 
-<div href="https://www.linkedin.com/in/pablo-abal-diez/" style="font-size: 18px;" align="center">Hacé click aca para visitar mi perfil de Linkedin</div></a>
+<div style="font-size: 18px;" align="center">
+<a href="https://www.linkedin.com/in/pablo-abal-diez/" target="_blank">Hacé click aca para visitar mi perfil de Linkedin</a>
+</div>
 
 
 
