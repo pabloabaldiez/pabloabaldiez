@@ -1,6 +1,6 @@
 
 <div align="center">
-    <img src="https://spng.pngfind.com/pngs/s/74-744402_java-logo-png-transparent-svg-vector-freebie-supply.png" style="width:500px;height:125px;" alt="Logo Java"/>
+    <img src="https://spng.pngfind.com/pngs/s/74-744402_java-logo-png-transparent-svg-vector-freebie-supply.png"  alt="Logo Java"/>
 </div>
 
 
