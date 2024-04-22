@@ -1,6 +1,6 @@
 
 <div align="center">
-    <img src="https://banner2.cleanpng.com/20180417/zzw/kisspng-java-platform-standard-edition-java-development-k-java-plum-5ad592d6a07116.3640567315239461986572.jpg" style="width:500px;height:125px;" alt="Logo Java"/>
+    <img src="https://spng.pngfind.com/pngs/s/74-744402_java-logo-png-transparent-svg-vector-freebie-supply.png" style="width:500px;height:125px;" alt="Logo Java"/>
 </div>
 
 
