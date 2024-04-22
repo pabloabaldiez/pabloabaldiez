@@ -1,6 +1,6 @@
 
 <div align="center">
-    <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Symbol.png" width="300" alt="Logo Java"/>
+    <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Symbol.png" width="200" alt="Logo Java"/>
 </div>
 
 
