@@ -1,6 +1,6 @@
 
 <div align="center">
-    <img src="https://spng.pngfind.com/pngs/s/74-744402_java-logo-png-transparent-svg-vector-freebie-supply.png"  alt="Logo Java"/>
+    <img src="https://banner2.cleanpng.com/20180904/gg/kisspng-java-scalable-vector-graphics-clip-art-logo-5b8e47dab36025.8520379415360511627347.jpg"  alt="Logo Java"/>
 </div>
 
 
