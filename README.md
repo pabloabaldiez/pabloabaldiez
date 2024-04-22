@@ -1,6 +1,6 @@
 
 <div align="center">
-    <img src="https://banner2.cleanpng.com/20180417/zzw/kisspng-java-platform-standard-edition-java-development-k-java-plum-5ad592d6a07116.3640567315239461986572.jpg"  alt="Logo Java"/>
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.stickpng.com%2Fes%2Fimg%2Fjuegos%2Fmoshi-monsters%2Flogotipo-completo-en-rojo-java&psig=AOvVaw3ECkwZuJosAjMkPmLolt5v&ust=1713905127621000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNCbjKXY1oUDFQAAAAAdAAAAABAh"  alt="Logo Java"/>
 </div>
 
 
