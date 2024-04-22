@@ -1,6 +1,6 @@
 
 <div align="center">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.stickpng.com%2Fes%2Fimg%2Fjuegos%2Fmoshi-monsters%2Flogotipo-completo-en-rojo-java&psig=AOvVaw3ECkwZuJosAjMkPmLolt5v&ust=1713905127621000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNCbjKXY1oUDFQAAAAAdAAAAABAh"  alt="Logo Java"/>
+    <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Symbol.png"  alt="Logo Java"/>
 </div>
 
 
